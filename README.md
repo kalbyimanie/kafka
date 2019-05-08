@@ -1,5 +1,5 @@
 # kafka
-stateless kafka deployment on kubernetes
+kafka deployment on kubernetes
 
 Prereq:
 1. deploy shell script should be outside of kafka-stateless directory
